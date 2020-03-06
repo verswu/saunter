@@ -1,7 +1,10 @@
 Idea:
 Use Asana to organize
 
-General 
+General:
+
+Make PWA Web App - check https://github.com/verswu/pwa-tutorial
+
 
 Structure:
 
@@ -9,14 +12,30 @@ Pre-Login
 Login
 Searching for match
 Start
-Text + Music (Video):
+Profile
+    Add friends? Circle
+    Text + Music (Video):
+        Sync video playback - https://bocoup.com/blog/html5-video-synchronizing-playback-of-two-videos    
+
 Must touch the same place to continue, keep button pressed
     Choose audio only or Video
     Give way to set "meet up"
         suggest time
         make calendar event?
         set reminder on phone?
-Keep touching to stay connected (Bump)
+
+Connected
+    Keep touching to stay connected (Bump)
+    Video/audio
+    Grace period if button unpress?
+
+
+Think about:
+    - Logistics
+    - What platform to host on
+    - Monetize ever?
+
+
 
 
 
